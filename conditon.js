@@ -32,7 +32,7 @@ let cartItems = [
   },
 
   {
-    name: "suresh",
+    name: "suresh bahadur",
     products: [
       { title: "fan", price: 3000 },
       { title: "chair", price: 1000 },
